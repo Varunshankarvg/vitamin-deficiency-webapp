@@ -75,10 +75,4 @@ npm start
 - PyTorch warning about `weights_only=False` is safe to ignore if you trust the model.
 - Make sure CORS and API paths are correctly configured between frontend and backend.
 
----
 
-## 📫 Contact
-
-Author: Varun Shankar G  
-Email: [varunshankarvg@gmail.com](mailto:varunshankarvg@gmail.com)  
-GitHub: [Varunshankarvg](https://github.com/Varunshankarvg)
